@@ -11,8 +11,7 @@ public class CombineStrings {
 
         a = "hello";
         b = "world";
-        String d = a + b;
 
-        return d;
+        return a + b;
     }
 }
